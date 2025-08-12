@@ -59,6 +59,23 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Legal",
+        "groups": [
+          {
+            "group": "Terms",
+            "pages": [
+              "legal/privacy_policy",
+              "legal/terms_and_conditions"
+            ]
+          },
+          {
+            "group": "Licenses",
+            "pages": [
+            ]
+          }
+        ]
       }
     ],
     "global": {
