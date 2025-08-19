@@ -14,12 +14,6 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
-            "pages": [
-              "quickstart"
-            ]
-          },
-          {
             "group": "Design System",
             "pages": [
               "design/agent-meta"
