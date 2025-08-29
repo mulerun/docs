@@ -46,7 +46,10 @@
             "group": "Terms",
             "pages": [
               "legal/privacy_policy",
-              "legal/terms_and_conditions"
+              "legal/terms_and_conditions",
+              "legal/creator_privacy_policy",
+              "legal/creators_terms_of_use",
+              "legal/dpa"
             ]
           },
           {
